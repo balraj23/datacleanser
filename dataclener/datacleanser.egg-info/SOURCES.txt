@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+datacleanser/__init__.py
+datacleanser/core.py
+datacleanser.egg-info/PKG-INFO
+datacleanser.egg-info/SOURCES.txt
+datacleanser.egg-info/dependency_links.txt
+datacleanser.egg-info/requires.txt
+datacleanser.egg-info/top_level.txt
+tests/test_core.py

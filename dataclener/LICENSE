@@ -1,0 +1,15 @@
+
+---
+
+## 📄 File: `LICENSE`
+
+You can grab an MIT license from [choosealicense.com](https://choosealicense.com/licenses/mit/) and paste it here.
+
+---
+
+## ⚙️ File: `pyproject.toml`
+
+```toml
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
